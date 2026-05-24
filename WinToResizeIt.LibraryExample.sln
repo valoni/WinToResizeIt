@@ -1,0 +1,28 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniversalResizeLib", "src\UniversalResizeLib\UniversalResizeLib.csproj", "{C4E9259A-1C14-4B9F-B66A-8C6D9D788001}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniversalResizeExample", "src\UniversalResizeExample\UniversalResizeExample.csproj", "{D1F1C7BA-7787-4F98-8E70-4B6D2218B001}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4E9259A-1C14-4B9F-B66A-8C6D9D788001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4E9259A-1C14-4B9F-B66A-8C6D9D788001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4E9259A-1C14-4B9F-B66A-8C6D9D788001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4E9259A-1C14-4B9F-B66A-8C6D9D788001}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1F1C7BA-7787-4F98-8E70-4B6D2218B001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1F1C7BA-7787-4F98-8E70-4B6D2218B001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1F1C7BA-7787-4F98-8E70-4B6D2218B001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1F1C7BA-7787-4F98-8E70-4B6D2218B001}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
